@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="bn">
+    <file>240_F_567678952_nRzV9wz1lyOH3VFVGllofOgv7xX5NXWk.jpg</file>
+    <file>360_F_269763698_m8yMmBCJ8c7N51ohpyd1Um6Akn7WttNW.jpg</file>
+    <file>abstract-technology-background-communication-concept-vector.jpg</file>
+    <file>blue.png</file>
+    <file>BN.png</file>
+    <file>camera_off.png</file>
+    <file>camera_on.png</file>
+    <file>FAN.png</file>
+    <file>fan_off.png</file>
+    <file>fan_on.png</file>
+    <file>image.qrc</file>
+    <file>laptop_off.png</file>
+    <file>laptop_on.png</file>
+    <file>off.png</file>
+    <file>on.png</file>
+    <file>on_off.png</file>
+    <file>pngtree-white-technology-background-image_529106.jpg</file>
+    <file>technology-abstract-circuit-board-texture-background-high-tech-futuristic-circuit-board-banner-wallpaper-digital-data-engineering-electronic-motherboard-illustration-vector.jpg</file>
+    <file>tv_off.png</file>
+    <file>tv_on.png</file>
+    <file>white.png</file>
+    <file>yellow.png</file>
+  </qresource>
+</RCC>
